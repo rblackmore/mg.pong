@@ -1,0 +1,9 @@
+{
+  "supports": {},
+  "dependencies": {
+    "Monogame.Framework.Portable": "3.6.0.1625"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile7": {}
+  }
+}
